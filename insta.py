@@ -7,7 +7,7 @@ def getUserInfo(url):
     print("Result code: " + str(webUrl.getcode()))
 
 def main():
-    url = "https://www.instagram.com/_houmi75"
+    url = "https://www.instagram.com/instagram"
     getUserInfo(url)
 
 if __name__ == "__main__":
